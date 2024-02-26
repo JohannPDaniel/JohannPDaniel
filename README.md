@@ -1,6 +1,6 @@
-<img src="https://github.com/JohannPDaniel/JohannPDaniel/assets/156346733/fde8ee59-bf49-4b59-919d-5136db38956e" alt="Saudações, Amantes da Tecnologia" Width="650">
+<img src="https://github.com/JohannPDaniel/JohannPDaniel/assets/156346733/fde8ee59-bf49-4b59-919d-5136db38956e" alt="Saudações, Amantes da Tecnologia" Width="1200" height="400">
 
-<h1>Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1 align="center">Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
 <h2>Hobbies:</h2>
 <p>

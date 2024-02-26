@@ -5,7 +5,7 @@
 <h2>Hobbies:</h2>
 <p>
   Amo ouvir musicas que me edificam e me fazem pensar. Além disso também adoro tocar 
-  violino. E principalmente, não pode faltar a cocera que sinto em meus dedos para codar 
+  violino. E principalmente, não pode faltar a coceira que sinto em meus dedos para codar 
   algum código referente ao que estou estudando, ou por apenas curiosidade.
 </p>
 

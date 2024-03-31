@@ -1,7 +1,9 @@
 <img src="https://github.com/JohannPDaniel/JohannPDaniel/assets/156346733/fde8ee59-bf49-4b59-919d-5136db38956e" alt="Saudações, Amantes da Tecnologia" Width="1200" height="400">
 
 <h1 align="center">Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-
+<p align=center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40C725&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Estudante+Web+Full+Stack+Developer;Front+End+%7C+Back+End;HTML+%7C+CSS+%7C+Javascript;Buscando+novos+conhecimentos+sempre" alt="Typing SVG" /></a>
+</p>
 <h2>Hobbies:</h2>
 <p>
   Amo ouvir musicas que me edificam e me fazem pensar. Além disso também adoro tocar 

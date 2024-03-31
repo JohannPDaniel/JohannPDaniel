@@ -2,7 +2,7 @@
 
 <h1 align="center">Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5187&pause=10&color=43B910&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=506&height=78&lines=Estudante+Web+Full+Stack+Developer;Front+End+%7C+Back+End;HTML+%7C+CSS+%7C+Javascript;Buscando+novos+conhecimentos+sempre" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=10&color=43B910&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=506&height=78&lines=Estudante+Web+Full+Stack+Developer;Front+End+%7C+Back+End;HTML+%7C+CSS+%7C+Javascript;Buscando+novos+conhecimentos+sempre" alt="Typing SVG" /></a>
 </p>
 
 <h2>Hobbies:</h2>

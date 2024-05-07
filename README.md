@@ -4,9 +4,12 @@
 
 <h3>Olá !!! Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical">
+<div style="display:flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannPDaniel&langs_count=8&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannPDaniel&langs_count=8&theme=radical" width="285">
+</div>
+
 
 ### Técnologias que estou estou estudando atualmente:
 <div style="display: flex; gap: 4px">

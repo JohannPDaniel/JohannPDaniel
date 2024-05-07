@@ -4,7 +4,9 @@
 
 <h3>Olá !!! Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannPDaniel&langs_count=8&theme=radical">
 
 ### Técnologias que estou estou estudando atualmente:
 <div style="display: flex; gap: 4px">
@@ -19,6 +21,8 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="Express" alt="Express" width="90px" height="30px"/>
   
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="70px" height="30px"/>
+  
+  
   
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="80px" height="30px"/>
   

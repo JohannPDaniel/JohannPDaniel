@@ -1,52 +1,39 @@
-<img src="https://github.com/JohannPDaniel/JohannPDaniel/assets/156346733/fde8ee59-bf49-4b59-919d-5136db38956e" alt="Saudações, Amantes da Tecnologia" Width="1200" height="400">
-
-<h1 align="center">Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-<p align=center>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40C725&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Estudante+Web+Full+Stack+Developer;Front+End+%7C+Back+End;HTML+%7C+CSS+%7C+Javascript;Buscando+novos+conhecimentos+sempre" alt="Typing SVG" /></a>
-</p>
-<h2>Hobbies:</h2>
-<p>
-  Amo ouvir musicas que me edificam e me fazem pensar. Além disso também adoro tocar 
-  violino. E principalmente, não pode faltar a coceira que sinto em meus dedos para codar 
-  algum código referente ao que estou estudando, ou por apenas curiosidade.
-</p>
-
-<h2>Formação:</h2>
-<p>
-  Sou formado como técnico em administração pelo Senac, e como técnico em edificações   
-  pelo Colégio técnico Bento Quirino, no entanto, não me encontrei nas áreas e agora 
-  estou aproveitando a oportunidade que a Growdev me deu de estudar na 19º edição do 
-  Programa Starter FullStack Developer.
-</p>
-
-<h2>Experiências Profissionais:</h2>
-<p>
-  Atuei como missionário de tempo integral pela igreja a qual frequento que é A Igreja 
-  de Jesus Cristo dos Santos dos Ultimos Dias durante dois anos em Fortaleza/CE, onde 
-  tive a oportunidade de ensinar pessoas a buscarem ter uma qualidade de vida melhor em 
-  suas vidas. Além disso, tive a oportunidade de tocar na Orquestra Sinfônica dos 
-  Patrulheiros de Campinas como Violinista durante 8 meses.
-</p>
-
-<h2>Linguagem de Programação favorita:</h2>
-<p>
-  Atualmente não sei nenhuma, no entanto, estou ansioso para aprender javascript.
-</p>
-
-<h2>Linguagem que está estudando atualmente:</h2>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="70" />&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70"/>&nbsp;&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="70"/>&nbsp;&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="70" />&nbsp;&nbsp;
+<div style="text-align:center">
+  <img src="./saudação.gif" alt="Saudações, Amantes da Tecnologia" Width="900" height="300">
 </div>
 
-<h2>Contatos</h2>
-<a href="https://wa.me/5519991069456" target="_blank">
-  <img src="https://github.com/JohannPDaniel/JohannPDaniel/assets/156346733/1eeeec59-37ad-44a0-ac03-23e22573074f" alt="whatssap" width="150"/>
-</a>
+<h3>Olá !!! Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 
-<a href="https://www.linkedin.com/in/johann-patr%C3%ADcio-daniel-112425196/" target="_blank">
-  <img src="https://github.com/JohannPDaniel/JohannPDaniel/assets/156346733/696dbe5a-0581-49ad-b432-54eb080fa001" alt="linkedin" width="170"/>
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johannpdaniel&show_icons=true&theme=radical)
+
+### Técnologias que estou estou estudando atualmente:
+<div style="display: flex; gap: 4px">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="70" />
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS" width="70" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="90" />
+
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJs" alt="NodeJs" width="90" />
+
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="Express" alt="Express" width="90" />
+  
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="70" height="25"/>
+  
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="80" height="25"/>
+  
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode" width="100" />
+</div>
+
+<h2>Contato:</h2>
+<div style="display: flex; gap: 4px">
+  <a href="https://wa.me/5519991069456" target="_blank">
+    <img src="./whatsapp.jpg" alt="whatssap" width="150"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/johann-patr%C3%ADcio-daniel-112425196/" target="_blank">
+    <img src="./linkedin.jpg" alt="linkedin" width="170"/>
+  </a>
+</div>
+
 

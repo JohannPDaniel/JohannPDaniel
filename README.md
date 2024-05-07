@@ -4,10 +4,10 @@
 
 <h3>Olá !!! Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johannpdaniel&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical)
 
 ### Técnologias que estou estou estudando atualmente:
-<div style="display: flex; gap: 4px">
+<div style="displgitay: flex; gap: 4px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="80px" height="30px"/>
 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS" width="70px" height="30px"/>

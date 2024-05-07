@@ -1,5 +1,5 @@
 <div style="text-align:center">
-  <img src="./saudação.gif" alt="Saudações, Amantes da Tecnologia" Width="900" height="300">
+  <img src="./saudação.gif" alt="Saudações, Amantes da Tecnologia" Width="900" height="400">
 </div>
 
 <h3>Olá !!! Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>

@@ -2,7 +2,7 @@
   <img src="./saudação.gif" alt="Saudações, Amantes da Tecnologia" Width="900" height="400">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=fira+code&width=435&pause=1000&color=2EF735&center=verdadeiro&vCenter=verdadeiro&lines=Olá+!!!+🖐️;Meu+nome+é+Johann+Patricio+Daniel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=fira+code&width=435&height=30&pause=1000&color=2EF735&center=true&vCenter=true&lines=Olá+!!!+🖐️;Meu+nome+é+Johann+Patricio+Daniel)](https://git.io/typing-svg)
 
 ✅ Apaixonado por tecnologia e acima de tudo por buscar conhecimento.
 

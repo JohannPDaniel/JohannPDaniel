@@ -34,7 +34,7 @@
 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="Express" alt="Express" width="100px" height="30px"/>
 
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Express" alt="Express" width="100px" height="30px"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="100px" height="30px"/>
   
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="90px" height="30px"/>
   

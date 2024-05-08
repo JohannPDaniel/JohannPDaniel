@@ -1,33 +1,37 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
-  # Executa o workflow diariamente
-  schedule:
+  # Agendamento para executar todos os dias à meia-noite
+  schedule: 
     - cron: "0 0 * * *"
-  # Executa o workflow sempre que um push é feito no repositório
+  # Permite executar manualmente
+  workflow_dispatch:
+  # Executa quando um push é feito na branch principal
   push:
     branches:
       - main
-  
+
 jobs:
-  build:
+  generate_snake:
+    name: Generate Snake Animation
     runs-on: ubuntu-latest
     
     steps:
-    - name: Clonar Repositório
-      uses: actions/checkout@v2
-      with:
-        repository: Platane/snk
-        path: /tmp/snake
+    - name: Checkout do Repositório
+      uses: actions/checkout@v3
     
-    - name: Gerar a Animação
-      run: |
-        cd /tmp/snake
-        python3 generate.py --user JohannPDaniel --output ../
-
-    - name: Adicionar a Animação ao Repositório
+    - name: Gerar a Animação de Cobra
+      uses: Platane/snk@v3
+      with:
+        github_user_name: JohannPDaniel  # Substitua pelo seu nome de usuário
+        svg_out_path: github-contribution-grid-snake.svg
+    
+    - name: Confirmar e Enviar a Animação
       uses: EndBug/add-and-commit@v9
       with:
         message: "Atualizar a animação de cobra"
-        add: github-contribution-grid-snake.svg
+        add: "github-contribution-grid-snake.svg"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
   

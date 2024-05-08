@@ -12,6 +12,7 @@
 
 ![snake gif](https://github.com/JohannPDaniel/JohannPDaniel/blob/output/github-contribution-grid-snake.svg)
 
+
 ### Técnologias que estou estou estudando atualmente:
 <div style="display: flex; gap: 4px">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="80px" height="30px"/>

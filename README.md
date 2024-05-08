@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannPDaniel&langs_count=8&theme=radical" width="285">
 </div>
 
-![Snake animation](https://github.com/JohannPDaniel/JohannPDaniel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JohannPDaniel/JohannPDaniel/blob/output/github-contribution-grid-snake.svg)
 
 ### Técnologias que estou estou estudando atualmente:
 <div style="display: flex; gap: 4px">

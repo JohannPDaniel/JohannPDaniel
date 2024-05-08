@@ -8,7 +8,7 @@
 
 ✅ Faço parte da 19ª edição do programa de formação Starter web fullstack developer da Growdev.
 
-<div style="display:flex; gap: 10px;">
+<div style="display:flex; gap: 10px; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannPDaniel&langs_count=8&theme=radical" width="285" height="195">

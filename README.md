@@ -2,7 +2,11 @@
   <img src="./saudação.gif" alt="Saudações, Amantes da Tecnologia" Width="900" height="400">
 </div>
 
-<h3>Olá !!! Meu nome é Johann Patrício Daniel  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=fira+code&width=435&pause=1000&color=2EF735&center=verdadeiro&vCenter=verdadeiro&lines=Olá+!!!+🖐️;Meu+nome+é+Johann+Patricio+Daniel)](https://git.io/typing-svg)
+
+✅ Apaixonado por tecnologia e acima de tudo por buscar conhecimento.
+
+✅ Faço parte da 19ª edição do programa de formação Starter web fullstack developer da Growdev.
 
 <div style="display:flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical">

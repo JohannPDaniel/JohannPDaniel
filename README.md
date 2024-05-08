@@ -1,14 +1,19 @@
 <div style="text-align:center">
   <img src="./saudação.gif" alt="Saudações, Amantes da Tecnologia" Width="900" height="400">
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=fira+code&width=435&height=30&pause=1000&color=2EF735&center=true&vCenter=true&lines=Olá+!!!+🖐️;Meu+nome+é+Johann+Patricio+Daniel)](https://git.io/typing-svg)
+<br>
+<div style="text-align:center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=fira+code&width=520&height=30&size=25&pause=1000&color=2EF735&center=true&vCenter=true&lines=Olá+!!!+🖐️;Meu+nome+é+Johann+Patricio+Daniel">
+  </a>
+</div>
+<hr> 
 
 ✅ Apaixonado por tecnologia e acima de tudo por buscar conhecimento.
 
 ✅ Faço parte da 19ª edição do programa de formação Starter web fullstack developer da Growdev.
 
-<div style="display:flex; gap: 10px; justify-content: center; align-items: center;">
+<div style="display:flex; gap: 10px; justify-content: center; ">
   <img src="https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannPDaniel&langs_count=8&theme=radical" width="285" height="195">

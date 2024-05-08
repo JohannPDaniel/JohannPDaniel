@@ -1,18 +1,12 @@
 name: Generate Snake Animation
 
 on:
-  # Executa a cada 12 horas
-  schedule:
+  schedule: # Executa a cada 12 horas
     - cron: "0 */12 * * *"
-  # Permite executar manualmente
   workflow_dispatch:
-  # Executa quando um push é feito na branch principal
-  push:
-    branches:
-      - main
 
 jobs:
-  generate_snake:
+  build:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     
@@ -23,8 +17,8 @@ jobs:
     - name: Gerar a Animação de Cobra
       uses: Platane/snk@v3  # Usa uma versão estável
       with:
-        github_user_name: JohannPDaniel  # Substitua pelo seu nome de usuário GitHub
-        svg_out_path: github-contribution-grid-snake.svg  # Sem dist para melhor organização
+        github_user_name: JohannPDaniel
+        svg_out_path: github-contribution-grid-snake.svg
     
     - name: Confirmar e Enviar a Animação
       uses: EndBug/add-and-commit@v9
@@ -33,6 +27,7 @@ jobs:
         add: "github-contribution-grid-snake.svg"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 

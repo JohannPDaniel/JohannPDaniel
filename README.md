@@ -42,21 +42,21 @@
 </div>
 
 <h2>Contato:</h2>
-<div style="display: flex; gap: 4px">
+<div style="display: flex; gap: 20px">
   <a href="https://wa.me/5519991069456" target="_blank">
-    <img src="./whatsapp.jpg" alt="whatssap" width="190px" height="32px"/>
+    <img src="./whatsapp.jpg" alt="whatssap" width="170px" height="32px"/>
   </a>
 
   <a href="https://www.linkedin.com/in/johann-patr%C3%ADcio-daniel-112425196/" target="_blank">
-    <img src="./linkedin.jpg" alt="linkedin" width="210px" height="32px"/>
+    <img src="./linkedin.jpg" alt="linkedin" width="180px" height="32px"/>
   </a>
 
   <a href="https://discord.gg/N5RrvudFxa" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="140px" height="32px"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="100px" height="32px"/>
   </a>
 
   <a href="mailto:johannpatriciod@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="140px" height="32px"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="100px" height="32px"/>
   </a>
 </div>
 

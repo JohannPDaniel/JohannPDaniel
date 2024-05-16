@@ -2,7 +2,7 @@
   <img src="./saudação.gif" alt="Saudações, Amantes da Tecnologia" Width="900" height="400">
 </div>
 <br>
-<div style="">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=fira+code&width=520&height=30&size=25&pause=1000&color=2EF735&center=true&vCenter=true&lines=Olá+!!!+🖐️;Meu+nome+é+Johann+Patricio+Daniel">
   </a>

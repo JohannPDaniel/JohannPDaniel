@@ -1,65 +1,85 @@
-<div style="text-align:center">
-  <img src="./saudação.gif" alt="Saudações, Amantes da Tecnologia" Width="900" height="400">
-</div>
-<br>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=fira+code&width=520&height=30&size=25&pause=1000&color=2EF735&center=true&vCenter=true&lines=Ola+!!!;Meu+nome+e+Johann+Patricio+Daniel">
-  </a>
-</div>
-<hr> 
-
-✅ Apaixonado por tecnologia e acima de tudo por buscar conhecimento.
-
-✅ Faço parte da 19ª edição do programa de formação Starter web fullstack developer da Growdev.
-
-<div style="display:flex; gap: 10px; justify-content: center; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannPDaniel&langs_count=8&theme=radical" width="285" height="195">
+  <img src="./saudacao.gif" alt="Saudações, amantes da tecnologia" width="900">
 </div>
 
-![snake gif](https://github.com/JohannPDaniel/JohannPDaniel/blob/output/github-contribution-grid-snake.svg)
-
-
-### Técnologias que estou estou estudando atualmente:
-<div style="display: flex; gap: 10px">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="90px" height="30px"/>
-
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS" width="90px" height="30px"/>
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="110px" height="30px"/>
-
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" title="NodeJs" alt="NodeJs" width="100px" height="30px"/>
-
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" title="Express" alt="Express" width="100px" height="30px"/>
-
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" title="Postman" alt="Postman" width="100px" height="30px"/>
-  
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="90px" height="30px"/>
-  
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" width="100px" height="30px"/>
-  
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="VSCode" alt="VSCode" width="100px" height="30px"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2EF735&center=true&vCenter=true&width=520&height=30&lines=Ol%C3%A1%21%21%21;Meu+nome+%C3%A9+Johann+Patr%C3%ADcio+Daniel" alt="Olá! Meu nome é Johann Patrício Daniel">
 </div>
 
-<h2>Contato:</h2>
-<div style="display: flex; gap: 20px">
-  <a href="https://wa.me/5519991069456" target="_blank">
-    <img src="./whatsapp.jpg" alt="whatssap" width="170px" height="32px"/>
-  </a>
+<hr>
 
-  <a href="https://www.linkedin.com/in/johann-patr%C3%ADcio-daniel-112425196/" target="_blank">
-    <img src="./linkedin.jpg" alt="linkedin" width="180px" height="32px"/>
-  </a>
+## 👨‍💻 Sobre mim
 
-  <a href="https://discord.gg/N5RrvudFxa" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="100px" height="32px"/>
-  </a>
+✅ Apaixonado por tecnologia e, acima de tudo, por buscar conhecimento.
 
-  <a href="mailto:johannpatriciod@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="100px" height="32px"/>
-  </a>
+✅ Cursando **Ciência da Computação** na Wyden Unimetrocamp.
+
+✅ Concluí o curso **Starter Web Full Stack** da Growdev.
+
+✅ Foco em desenvolvimento web **front-end e full stack**.
+
+## 🛠️ Tecnologias
+
+**Front-end**<br>
+<img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redux" title="Redux Toolkit" alt="Redux Toolkit" width="48">
+
+<br>
+
+**Estilização**<br>
+<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sass" title="Sass" alt="Sass" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mui" title="MUI (Material UI)" alt="MUI" width="48">
+
+<br>
+
+**Back-end e integrações**<br>
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" width="48">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" title="Axios" alt="Axios">&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" alt="JWT">
+
+<br><br>
+
+**Ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48">
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=JohannPDaniel&show_icons=true&theme=radical"
+    alt="Estatísticas do GitHub"
+    width="49%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JohannPDaniel&layout=compact&langs_count=5&card_width=400&theme=radical"
+    alt="Linguagens mais usadas"
+    width="49%"
+  />
 </div>
 
+## 🐍 Atividade no GitHub
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JohannPDaniel/JohannPDaniel/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/johann-patr%C3%ADcio-daniel-112425196/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://discord.gg/N5RrvudFxa" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="mailto:johannpatriciod@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>

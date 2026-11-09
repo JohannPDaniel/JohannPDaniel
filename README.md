@@ -105,7 +105,16 @@
 <img src="./svgs/npm.svg" title="NPM" alt="NPM" width="48">&nbsp;&nbsp;
 <img src="./svgs/vscode.svg" title="VS Code" alt="VS Code" width="48">
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estatísticas do GitHub
+<h2>
+  <picture>
+    <img
+      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true"
+      width="50"
+      alt="Gráfico de estatísticas"
+    />
+  </picture>
+  Estatísticas do GitHub
+</h2>
 
 <div align="center">
   <img

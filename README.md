@@ -22,36 +22,33 @@
 
 **Front-end**<br>
 
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/html5/html5-original.svg" title="HTML" alt="HTML" fill="#1e1e2e" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/react/react-original.svg" title="React" alt="React" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="48">&nbsp;&nbsp;
+<img src="./svgs/html.svg" title="HTML" alt="HTML" fill="#1e1e2e" width="48">&nbsp;&nbsp;
+<img src="./svgs/css.svg" title="CSS" alt="CSS" width="48">&nbsp;&nbsp;
+<img src="./svgs/js.svg" title="Javascript" alt="Javascript" width="48">&nbsp;&nbsp;
+<img src="./svgs/ts.svg" title="Typescript" alt="Typescript" width="48">&nbsp;&nbsp;
+<img src="./svgs/react.svg" title="React" alt="React" width="48">&nbsp;&nbsp;
+<img src="./svgs/nextjs.svg" title="NextJS" alt="NextJS" width="48">&nbsp;&nbsp;
+<img src="./svgs/git.svg" title="Redux" alt="Redux" width="48">&nbsp;&nbsp;
 
 **Estilização**<br>
 
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="48">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/materialui/materialui-original.svg" title="MaterialUI (MUI)" alt="MaterialUI (MUI)" width="48">&nbsp;&nbsp;
+<img src="./svgs/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;&nbsp;
+<img src="./svgs/sass.svg" title="Sass" alt="Sass" width="48">&nbsp;&nbsp;
+<img src="./svgs/tailwind.svg" title="TailwindCSS" alt="TailwindCSS" width="48">&nbsp;&nbsp;
+<img src="./svgs/mui.svg" title="MaterialUI (MUI)" alt="MaterialUI (MUI)" width="48">&nbsp;&nbsp;
 
 **Back-end e integrações**<br>
 
-<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="48">&nbsp;&nbsp;
+<img src="./svgs/node.svg" title="NodeJS" alt="NodeJS" width="48">&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=axios" title="Axios" alt="Axios" width="48">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" title="Axios" alt="Axios">&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" alt="JWT">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="48" alt="React">
+<img src="./svgs/express.svg" title="Express.js" alt="Express.js" width="48">&nbsp;&nbsp;
+<img src="./svgs/axios.svg" title="Axios" alt="Axios" width="48">&nbsp;&nbsp;
+<img src="./svgs/jwt.svg" title="JWT" alt="JWT">
 
 **Ferramentas**<br>
 
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48">
+<img src="./svgs/git.svg" title="Git" alt="Git" width="48">&nbsp;&nbsp;
+<img src="./svgs/github.svg" title="GitHub" alt="GitHub" width="48">
 
 ## 📊 Estatísticas do GitHub
 

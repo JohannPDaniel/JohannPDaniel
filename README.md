@@ -10,11 +10,30 @@
 
 ## 👨‍💻 Sobre mim
 
-✅ Estudante de **Ciência da Computação** na Wyden Unimetrocamp.
+<picture align="top">
+  <img
+    align="right"
+    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
+    width="280"
+    height="250"
+    alt="Pessoa programando em um computador"
+  />
+</picture>
 
-✅ Concluí o curso **Starter Web Full Stack da Growdev**.
+<p>
+  ✅ Estudante de <strong>Ciência da Computação</strong> na Wyden Unimetrocamp.
+</p>
 
-✅ Tenho interesse em **desenvolvimento web**, especialmente **front-end**, e sigo ampliando meus conhecimentos em **back-end**.
+<p>
+  ✅ Concluí o curso <strong>Starter Web Full Stack</strong> da Growdev.
+</p>
+
+<p>
+  ✅ Tenho interesse em <strong>desenvolvimento web</strong>, especialmente <strong>front-end</strong>,<br> e sigo ampliando meus
+  conhecimentos em <strong>back-end</strong>.
+</p>
+
+<br clear="right">
 
 ## 🛠️ Tecnologias
 

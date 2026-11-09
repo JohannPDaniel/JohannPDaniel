@@ -10,45 +10,54 @@
 
 ## 👨‍💻 Sobre mim
 
-✅ Apaixonado por tecnologia e, acima de tudo, por buscar conhecimento.
+✅ Estudante de **Ciência da Computação** na Wyden Unimetrocamp.
 
-✅ Cursando **Ciência da Computação** na Wyden Unimetrocamp.
+✅ Concluí o curso **Starter Web Full Stack da Growdev**.
 
-✅ Concluí o curso **Starter Web Full Stack** da Growdev.
-
-✅ Foco em desenvolvimento web **front-end e full stack**.
+✅ Tenho interesse em **desenvolvimento web**, especialmente **front-end**, e sigo ampliando meus conhecimentos em **back-end**.
 
 ## 🛠️ Tecnologias
 
 **Front-end**<br>
 
-<img src="./svgs/html.svg" title="HTML" alt="HTML" fill="#1e1e2e" width="48">&nbsp;&nbsp;
+<img src="./svgs/html.svg" title="HTML" alt="HTML" width="48">&nbsp;&nbsp;
 <img src="./svgs/css.svg" title="CSS" alt="CSS" width="48">&nbsp;&nbsp;
 <img src="./svgs/js.svg" title="Javascript" alt="Javascript" width="48">&nbsp;&nbsp;
 <img src="./svgs/ts.svg" title="Typescript" alt="Typescript" width="48">&nbsp;&nbsp;
 <img src="./svgs/react.svg" title="React" alt="React" width="48">&nbsp;&nbsp;
 <img src="./svgs/nextjs.svg" title="NextJS" alt="NextJS" width="48">&nbsp;&nbsp;
-<img src="./svgs/git.svg" title="Redux" alt="Redux" width="48">&nbsp;&nbsp;
+<img src="./svgs/redux.svg" title="Redux" alt="Redux" width="48">&nbsp;&nbsp;
 
 **Estilização**<br>
 
 <img src="./svgs/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;&nbsp;
 <img src="./svgs/sass.svg" title="Sass" alt="Sass" width="48">&nbsp;&nbsp;
+<img src="./svgs/styledcomponents.svg" title="Styled Components" alt="Styled Components" width="48">&nbsp;&nbsp;
 <img src="./svgs/tailwind.svg" title="TailwindCSS" alt="TailwindCSS" width="48">&nbsp;&nbsp;
 <img src="./svgs/mui.svg" title="MaterialUI (MUI)" alt="MaterialUI (MUI)" width="48">&nbsp;&nbsp;
 
 **Back-end e integrações**<br>
 
 <img src="./svgs/node.svg" title="NodeJS" alt="NodeJS" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48">&nbsp;&nbsp;
 <img src="./svgs/express.svg" title="Express.js" alt="Express.js" width="48">&nbsp;&nbsp;
+<img src="./svgs/prisma.svg" title="Prisma ORM" alt="Prisma ORM" width="48">&nbsp;&nbsp;
 <img src="./svgs/axios.svg" title="Axios" alt="Axios" width="48">&nbsp;&nbsp;
-<img src="./svgs/jwt.svg" title="JWT" alt="JWT">
+<img src="./svgs/jwt.svg" title="JWT" alt="JWT" width="48">
+
+**Banco de Dados**<br>
+
+<img src="./svgs/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="48">&nbsp;&nbsp;
+
+**Testes**
+
+<img src="./svgs/jest.svg" title="Jest" alt="Jest" width="48">&nbsp;&nbsp;
 
 **Ferramentas**<br>
 
 <img src="./svgs/git.svg" title="Git" alt="Git" width="48">&nbsp;&nbsp;
-<img src="./svgs/github.svg" title="GitHub" alt="GitHub" width="48">
+<img src="./svgs/github.svg" title="GitHub" alt="GitHub" width="48">&nbsp;&nbsp;
+<img src="./svgs/npm.svg" title="NPM" alt="NPM" width="48">&nbsp;&nbsp;
+<img src="./svgs/vscode.svg" title="VS Code" alt="VS Code" width="48">
 
 ## 📊 Estatísticas do GitHub
 

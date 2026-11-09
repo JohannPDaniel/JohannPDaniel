@@ -108,7 +108,7 @@
 <h2>
   <picture>
     <img
-      src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true"
+      src="./Statistics.gif"
       width="50"
       alt="Gráfico de estatísticas"
     />

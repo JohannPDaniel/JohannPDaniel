@@ -109,7 +109,7 @@
   <picture>
     <img
       src="./Statistics.gif"
-      width="50"
+      width="40"
       alt="Gráfico de estatísticas"
     />
   </picture>

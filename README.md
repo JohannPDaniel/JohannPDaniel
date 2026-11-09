@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./saudacao.gif" alt="Saudações, amantes da tecnologia" width="900">
 </div>
-
+<br />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2EF735&center=true&vCenter=true&width=520&height=30&lines=Ol%C3%A1%21%21%21;Meu+nome+%C3%A9+Johann+Patr%C3%ADcio+Daniel" alt="Olá! Meu nome é Johann Patrício Daniel">
 </div>
@@ -21,33 +21,35 @@
 ## 🛠️ Tecnologias
 
 **Front-end**<br>
-<img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redux" title="Redux Toolkit" alt="Redux Toolkit" width="48">
 
-<br>
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/html5/html5-original.svg" title="HTML" alt="HTML" fill="#1e1e2e" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/react/react-original.svg" title="React" alt="React" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="48">&nbsp;&nbsp;
 
 **Estilização**<br>
-<img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sass" title="Sass" alt="Sass" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" width="48">&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mui" title="MUI (Material UI)" alt="MUI" width="48">
 
-<br>
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="48">&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/materialui/materialui-original.svg" title="MaterialUI (MUI)" alt="MaterialUI (MUI)" width="48">&nbsp;&nbsp;
 
 **Back-end e integrações**<br>
+
+<img src="https://github.com/devicons/devicon/blob/v2.18.0/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="48">&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48">&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" width="48">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=axios" title="Axios" alt="Axios" width="48">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" title="Axios" alt="Axios">&nbsp;
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" alt="JWT">
 
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="48" alt="React">
 
 **Ferramentas**<br>
+
 <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48">&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48">
 

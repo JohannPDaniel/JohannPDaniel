@@ -10,18 +10,22 @@
 
 ## 👨‍💻 Sobre mim
 
-<picture align="top">
+<picture>
   <img
-    align="right"
-    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
+    align="left"
+    src="./Right_Side.gif"
     width="280"
-    height="250"
+    height="200"
     alt="Pessoa programando em um computador"
   />
 </picture>
 
 <p>
-  ✅ Estudante de <strong>Ciência da Computação</strong> na Wyden Unimetrocamp.
+  ✅ Estudante de <strong>Ciência da Computação</strong> na <strong>Wyden Unimetrocamp</strong>.
+</p>
+
+<p>
+  ✅ Estudante do curso de <strong>Computação em Núvem</strong> na <strong>Escola da Núvem</strong>.
 </p>
 
 <p>
@@ -33,7 +37,7 @@
   conhecimentos em <strong>back-end</strong>.
 </p>
 
-<br clear="right">
+<br><br>
 
 ## 🛠️ Tecnologias
 

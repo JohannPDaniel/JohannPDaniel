@@ -13,7 +13,6 @@
 <hr>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
-
 <picture>
   <img
     align="left"
@@ -23,64 +22,85 @@
     alt="Pessoa programando em um computador"
   />
 </picture>
-
+<br>
 <p>
   ✅ Estudante de <strong>Ciência da Computação</strong> na <strong>Wyden Unimetrocamp</strong>.
 </p>
-
 <p>
   ✅ Estudante do curso de <strong>Computação em Núvem</strong> na <strong>Escola da Núvem</strong>.
 </p>
-
 <p>
   ✅ Concluí o curso <strong>Starter Web Full Stack</strong> da Growdev.
 </p>
-
 <p>
   ✅ Tenho interesse em <strong>desenvolvimento web</strong>, especialmente <strong>front-end</strong>,<br> e sigo ampliando meus
   conhecimentos em <strong>back-end</strong>.
 </p>
+<br>
+<h2>🛠️ Tecnologias</h2>
 
-<br><br>
+<p>
+  <strong>Front-end</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Estilização</strong>
+</p>
+  
+  <img src="./svgs/html.svg" title="HTML" alt="HTML" width="48">&nbsp;
+  <img src="./svgs/css.svg" title="CSS" alt="CSS" width="48">&nbsp;
+  <img src="./svgs/js.svg" title="JavaScript" alt="JavaScript" width="48">&nbsp;
+  <img src="./svgs/ts.svg" title="TypeScript" alt="TypeScript" width="48">&nbsp;
+  <img src="./svgs/react.svg" title="React" alt="React" width="48">&nbsp;
+  <img src="./svgs/nextjs.svg" title="NextJS" alt="NextJS" width="48">&nbsp;
+  <img src="./svgs/redux.svg" title="Redux" alt="Redux" width="48">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./svgs/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;
+  <img src="./svgs/sass.svg" title="Sass" alt="Sass" width="48">&nbsp;
+  <img src="./svgs/styledcomponents.svg" title="Styled Components" alt="Styled Components" width="48">&nbsp;
+  <img src="./svgs/tailwind.svg" title="TailwindCSS" alt="TailwindCSS" width="48">&nbsp;
+  <img src="./svgs/mui.svg" title="MaterialUI (MUI)" alt="MaterialUI (MUI)" width="48">
 
-## 🛠️ Tecnologias
-
-**Front-end**<br>
-
-<img src="./svgs/html.svg" title="HTML" alt="HTML" width="48">&nbsp;&nbsp;
-<img src="./svgs/css.svg" title="CSS" alt="CSS" width="48">&nbsp;&nbsp;
-<img src="./svgs/js.svg" title="Javascript" alt="Javascript" width="48">&nbsp;&nbsp;
-<img src="./svgs/ts.svg" title="Typescript" alt="Typescript" width="48">&nbsp;&nbsp;
-<img src="./svgs/react.svg" title="React" alt="React" width="48">&nbsp;&nbsp;
-<img src="./svgs/nextjs.svg" title="NextJS" alt="NextJS" width="48">&nbsp;&nbsp;
-<img src="./svgs/redux.svg" title="Redux" alt="Redux" width="48">&nbsp;&nbsp;
-
-**Estilização**<br>
-
-<img src="./svgs/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;&nbsp;
-<img src="./svgs/sass.svg" title="Sass" alt="Sass" width="48">&nbsp;&nbsp;
-<img src="./svgs/styledcomponents.svg" title="Styled Components" alt="Styled Components" width="48">&nbsp;&nbsp;
-<img src="./svgs/tailwind.svg" title="TailwindCSS" alt="TailwindCSS" width="48">&nbsp;&nbsp;
-<img src="./svgs/mui.svg" title="MaterialUI (MUI)" alt="MaterialUI (MUI)" width="48">&nbsp;&nbsp;
-
-**Back-end e integrações**<br>
+<p>
+  <strong>Back-end e integrações</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Banco de Dados</strong>
+</p>
 
 <img src="./svgs/node.svg" title="NodeJS" alt="NodeJS" width="48">&nbsp;&nbsp;
 <img src="./svgs/express.svg" title="Express.js" alt="Express.js" width="48">&nbsp;&nbsp;
 <img src="./svgs/prisma.svg" title="Prisma ORM" alt="Prisma ORM" width="48">&nbsp;&nbsp;
 <img src="./svgs/axios.svg" title="Axios" alt="Axios" width="48">&nbsp;&nbsp;
 <img src="./svgs/jwt.svg" title="JWT" alt="JWT" width="48">
-
-**Banco de Dados**<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./svgs/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="48">&nbsp;&nbsp;
 
-**Testes**
+<p>
+  <strong>Testes</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Ferramentas</strong>
+</p>
 
 <img src="./svgs/jest.svg" title="Jest" alt="Jest" width="48">&nbsp;&nbsp;
-
-**Ferramentas**<br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./svgs/git.svg" title="Git" alt="Git" width="48">&nbsp;&nbsp;
 <img src="./svgs/github.svg" title="GitHub" alt="GitHub" width="48">&nbsp;&nbsp;
 <img src="./svgs/npm.svg" title="NPM" alt="NPM" width="48">&nbsp;&nbsp;

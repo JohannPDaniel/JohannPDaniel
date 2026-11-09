@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="./saudacao.gif" alt="Saudações, amantes da tecnologia" width="900">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
+<!-- <div align="center">
+  <img src="./saudacao.gif" alt="Saudações, amantes da tecnologia" width="900">
+</div> -->
+
 <br />
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2EF735&center=true&vCenter=true&width=520&height=30&lines=Ol%C3%A1%21%21%21;Meu+nome+%C3%A9+Johann+Patr%C3%ADcio+Daniel" alt="Olá! Meu nome é Johann Patrício Daniel">
@@ -8,7 +12,7 @@
 
 <hr>
 
-## 👨‍💻 Sobre mim
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 
 <picture>
   <img
@@ -82,7 +86,7 @@
 <img src="./svgs/npm.svg" title="NPM" alt="NPM" width="48">&nbsp;&nbsp;
 <img src="./svgs/vscode.svg" title="VS Code" alt="VS Code" width="48">
 
-## 📊 Estatísticas do GitHub
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estatísticas do GitHub
 
 <div align="center">
   <img

@@ -57,7 +57,7 @@
   <img src="./svgs/nextjs.svg" title="NextJS" alt="NextJS" width="48">&nbsp;
   <img src="./svgs/redux.svg" title="Redux" alt="Redux" width="48">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./svgs/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="48">&nbsp;
   <img src="./svgs/sass.svg" title="Sass" alt="Sass" width="48">&nbsp;
   <img src="./svgs/styledcomponents.svg" title="Styled Components" alt="Styled Components" width="48">&nbsp;
@@ -78,9 +78,9 @@
 <img src="./svgs/prisma.svg" title="Prisma ORM" alt="Prisma ORM" width="48">&nbsp;&nbsp;
 <img src="./svgs/axios.svg" title="Axios" alt="Axios" width="48">&nbsp;&nbsp;
 <img src="./svgs/jwt.svg" title="JWT" alt="JWT" width="48">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./svgs/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="48">&nbsp;&nbsp;
 
 <p>
